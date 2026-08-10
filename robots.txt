@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kripto-kazino-bez-verifikacii.github.io
+Sitemap: https://kripto-kazino-bez-verifikacii.github.io/sitemap.xml
